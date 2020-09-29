@@ -75,7 +75,8 @@ body {
     text-transform: lowercase;
     color: whitesmoke;
     font-size: 30px;
-    padding-top: 6%;
+    padding-top: 10px;
+    display: block;
     text-align: center;
     text-shadow: 10px 10px 2px black;
 }
